@@ -1,3 +1,4 @@
+![sentinel_poster](https://github.com/gavinpaul-6/microsoft-sentinel-siem/assets/98987388/b3b9ba05-14c0-4e11-97c9-30f3dc7a0e31)
 # Microsoft Sentinel SIEM & Honeynet
 
 <h2>Summary</h2>
